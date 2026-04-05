@@ -122,13 +122,7 @@ const danish: Developer = {
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanisheKhan&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=true&radius=10" width="95%"/>
-
-</div>
-
----
 
 ### 📬 Let's Connect
 
