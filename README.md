@@ -78,6 +78,7 @@ const danish: Developer = {
 
 | Project | Description | Stack | Link |
 |:--------|:------------|:------|:----:|
+| 🕌 **Madina Perfumes** | Full-stack e-commerce platform with auth, cart, wishlist, orders, admin dashboard & payment integration | `React` `Vite` `Supabase` `Node` `Tailwind` `Framer Motion` | [Live ↗](https://www.madinaperfumes.in) |
 | 🏠 **HomeShare** | Full-stack property listing & booking platform with JWT auth, image uploads & Cloudinary integration | `React` `Node` `Express` `MongoDB` | [Live ↗](https://homeshare-9joh.onrender.com/listings) |
 | ✍️ **Blog Platform** | Feature-rich blog with auth, CRUD posts, comments & secure RESTful APIs | `React` `Appwrite` `Tailwind` | [Live ↗](https://danishkhan-mega-blog.vercel.app/) |
 | 🌐 **Portfolio** | Personal portfolio with smooth animations & pixel-perfect responsive design | `React` `Tailwind` `Framer Motion` | [Live ↗](https://danish-khan-portfolio.vercel.app/) |
