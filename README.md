@@ -20,7 +20,6 @@ const danish: Developer = {
     degree: "B.Tech CSE (AI Specialization)",
     college: "Raisoni Engineering College, MH",
     graduation: "May 2026",
-    cgpa: 8.1,
   },
   location: "Bhusawal, Maharashtra 🇮🇳",
   currentFocus: [
